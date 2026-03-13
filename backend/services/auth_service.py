@@ -6,8 +6,8 @@ from sqlalchemy.ext.asyncio import AsyncSession
 from sqlalchemy import select
 import random, string
 
-from backend.db.models import User, Group, UserMode
-from backend.config import get_settings
+from db.models import User, Group, UserMode
+from config import get_settings
 
 settings   = get_settings()
 pwd_ctx    = CryptContext(schemes=["bcrypt"], deprecated="auto")
