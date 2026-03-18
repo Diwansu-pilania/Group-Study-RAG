@@ -4,7 +4,7 @@ Streamlit Frontend — AI Learning Agent
 Pages:
   🏠 Home / Login / Register
   🎯 Onboarding — set goal + roadmap
-  📅 Daily Tasks
+  📅 Daily Taskszz
   📊 My Progress
   🏆 Group Leaderboard
 """
