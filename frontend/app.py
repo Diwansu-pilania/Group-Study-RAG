@@ -1,6 +1,6 @@
 """
 Streamlit Frontend — AI Learning Agent
-----------------------------------------
+----------------------------------
 Pages:
   🏠 Home / Login / Register
   🎯 Onboarding — set goal + roadmap
